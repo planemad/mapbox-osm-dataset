@@ -1,0 +1,25 @@
+{
+  "name": "mapbox-update-osm-dataset",
+  "version": "0.0.1",
+  "description": "A node module to update a Mapbox dataset using OpenStreetMap data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/planemad/mapbox-update-osm-dataset.git"
+  },
+  "keywords": [
+    "mapbox",
+    "openstreetmap",
+    "dataset",
+    "update"
+  ],
+  "author": "Arun Ganesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/planemad/mapbox-update-osm-dataset/issues"
+  },
+  "homepage": "https://github.com/planemad/mapbox-update-osm-dataset#readme"
+}
